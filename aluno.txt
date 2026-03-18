@@ -1,0 +1,5 @@
+54683738;Francisco Silva Oliveira;Sistemas de Informa‡Æo;9;Ativo;10/1/2026;13/2/2004
+792748274;João da Silva Marques;Engenharia Civil;6;Inativo;10/1/2026;12/8/1999
+4878953;Pedro Bezerra;Engenharia de Pesca;4;`Ä;22/1/2026;14/2/2001
+1231321;joseee;ti;4;inativo;22/1/2026;15/7/2001
+232323;bbbbbbbbbbbbbbbbb;info;2;ativo;5/3/2026;12/9/2022
