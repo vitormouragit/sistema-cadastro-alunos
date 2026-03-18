@@ -64,5 +64,3 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 * Refatoração do algoritmo de ordenação (QuickSort ou MergeSort)
 
 ---
-
-Se quiser, posso deixar ainda mais “nível portfólio” (com badge, GIF, prints ou descrição como se fosse pra recrutador 👀).
